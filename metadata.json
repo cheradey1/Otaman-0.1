@@ -1,0 +1,5 @@
+{
+  "name": "OTAMAN Planner",
+  "description": "Advanced Drone Defense C2 System with two-tier perimeter defense, 3D swarm formations, and automated driver notifications.",
+  "requestFramePermissions": ["geolocation"]
+}
